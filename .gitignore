@@ -1,0 +1,11 @@
+/node_modules
+/public/hot
+/public/p
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vagrant
+Homestead.yaml
+npm-debug.log
+.env
